@@ -7,18 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D7692E4828615E82008336C8 /* SpaColorsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7692E4728615E82008336C8 /* SpaColorsListView.swift */; };
+		D7692E4A28615EA9008336C8 /* AddColorListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7692E4928615EA9008336C8 /* AddColorListView.swift */; };
+		D7692E4C286161F7008336C8 /* ToggleCheckboxStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7692E4B286161F7008336C8 /* ToggleCheckboxStyle.swift */; };
+		D7692E4E28616298008336C8 /* MySpaColorsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7692E4D28616298008336C8 /* MySpaColorsListView.swift */; };
+		D7692E50286162CC008336C8 /* MySpaColorsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7692E4F286162CC008336C8 /* MySpaColorsViewModel.swift */; };
 		D78E5662285F65230076BE5D /* CP_Ink_SelectorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E5661285F65230076BE5D /* CP_Ink_SelectorApp.swift */; };
 		D78E5664285F65230076BE5D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E5663285F65230076BE5D /* ContentView.swift */; };
 		D78E5666285F65250076BE5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D78E5665285F65250076BE5D /* Assets.xcassets */; };
 		D78E5669285F65250076BE5D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D78E5668285F65250076BE5D /* Preview Assets.xcassets */; };
+		D78E5670285F657A0076BE5D /* JsonParseUtility.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E566F285F657A0076BE5D /* JsonParseUtility.swift */; };
+		D78E5672285F659D0076BE5D /* CPInkColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E5671285F659D0076BE5D /* CPInkColor.swift */; };
+		D78E5674285F68E80076BE5D /* cpinks.json in Resources */ = {isa = PBXBuildFile; fileRef = D78E5673285F68E80076BE5D /* cpinks.json */; };
+		D78E5676285F6AE20076BE5D /* CPInkViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E5675285F6AE20076BE5D /* CPInkViewModel.swift */; };
+		D78E5678285F74080076BE5D /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E5677285F74080076BE5D /* CardView.swift */; };
+		D78E567A285FD3090076BE5D /* ColorListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78E5679285FD3080076BE5D /* ColorListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D7692E4728615E82008336C8 /* SpaColorsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpaColorsListView.swift; sourceTree = "<group>"; };
+		D7692E4928615EA9008336C8 /* AddColorListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddColorListView.swift; sourceTree = "<group>"; };
+		D7692E4B286161F7008336C8 /* ToggleCheckboxStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleCheckboxStyle.swift; sourceTree = "<group>"; };
+		D7692E4D28616298008336C8 /* MySpaColorsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySpaColorsListView.swift; sourceTree = "<group>"; };
+		D7692E4F286162CC008336C8 /* MySpaColorsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySpaColorsViewModel.swift; sourceTree = "<group>"; };
 		D78E565E285F65230076BE5D /* CP Ink Selector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CP Ink Selector.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D78E5661285F65230076BE5D /* CP_Ink_SelectorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CP_Ink_SelectorApp.swift; sourceTree = "<group>"; };
 		D78E5663285F65230076BE5D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D78E5665285F65250076BE5D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D78E5668285F65250076BE5D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D78E566F285F657A0076BE5D /* JsonParseUtility.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JsonParseUtility.swift; sourceTree = "<group>"; };
+		D78E5671285F659D0076BE5D /* CPInkColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CPInkColor.swift; sourceTree = "<group>"; };
+		D78E5673285F68E80076BE5D /* cpinks.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cpinks.json; sourceTree = "<group>"; };
+		D78E5675285F6AE20076BE5D /* CPInkViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CPInkViewModel.swift; sourceTree = "<group>"; };
+		D78E5677285F74080076BE5D /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		D78E5679285FD3080076BE5D /* ColorListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +54,53 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D7692E4328615DFF008336C8 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D7692E51286163EA008336C8 /* Common */,
+				D78E5663285F65230076BE5D /* ContentView.swift */,
+				D78E5679285FD3080076BE5D /* ColorListView.swift */,
+				D7692E4728615E82008336C8 /* SpaColorsListView.swift */,
+				D7692E4928615EA9008336C8 /* AddColorListView.swift */,
+				D7692E4D28616298008336C8 /* MySpaColorsListView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D7692E4428615E16008336C8 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				D78E5675285F6AE20076BE5D /* CPInkViewModel.swift */,
+				D7692E4F286162CC008336C8 /* MySpaColorsViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		D7692E4528615E2E008336C8 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D78E5671285F659D0076BE5D /* CPInkColor.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D7692E4628615E3B008336C8 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				D78E566F285F657A0076BE5D /* JsonParseUtility.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		D7692E51286163EA008336C8 /* Common */ = {
+			isa = PBXGroup;
+			children = (
+				D7692E4B286161F7008336C8 /* ToggleCheckboxStyle.swift */,
+				D78E5677285F74080076BE5D /* CardView.swift */,
+			);
+			path = Common;
+			sourceTree = "<group>";
+		};
 		D78E5655285F65230076BE5D = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +120,12 @@
 		D78E5660285F65230076BE5D /* CP Ink Selector */ = {
 			isa = PBXGroup;
 			children = (
+				D7692E4528615E2E008336C8 /* Model */,
+				D7692E4428615E16008336C8 /* ViewModel */,
+				D7692E4328615DFF008336C8 /* View */,
+				D7692E4628615E3B008336C8 /* Utils */,
 				D78E5661285F65230076BE5D /* CP_Ink_SelectorApp.swift */,
-				D78E5663285F65230076BE5D /* ContentView.swift */,
+				D78E5673285F68E80076BE5D /* cpinks.json */,
 				D78E5665285F65250076BE5D /* Assets.xcassets */,
 				D78E5667285F65250076BE5D /* Preview Content */,
 			);
@@ -127,6 +200,7 @@
 			files = (
 				D78E5669285F65250076BE5D /* Preview Assets.xcassets in Resources */,
 				D78E5666285F65250076BE5D /* Assets.xcassets in Resources */,
+				D78E5674285F68E80076BE5D /* cpinks.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +211,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7692E50286162CC008336C8 /* MySpaColorsViewModel.swift in Sources */,
 				D78E5664285F65230076BE5D /* ContentView.swift in Sources */,
+				D78E5670285F657A0076BE5D /* JsonParseUtility.swift in Sources */,
+				D7692E4A28615EA9008336C8 /* AddColorListView.swift in Sources */,
+				D7692E4C286161F7008336C8 /* ToggleCheckboxStyle.swift in Sources */,
 				D78E5662285F65230076BE5D /* CP_Ink_SelectorApp.swift in Sources */,
+				D78E5672285F659D0076BE5D /* CPInkColor.swift in Sources */,
+				D7692E4828615E82008336C8 /* SpaColorsListView.swift in Sources */,
+				D7692E4E28616298008336C8 /* MySpaColorsListView.swift in Sources */,
+				D78E5678285F74080076BE5D /* CardView.swift in Sources */,
+				D78E5676285F6AE20076BE5D /* CPInkViewModel.swift in Sources */,
+				D78E567A285FD3090076BE5D /* ColorListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

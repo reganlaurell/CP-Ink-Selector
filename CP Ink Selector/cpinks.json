@@ -1,0 +1,362 @@
+[
+    {
+        "colorName": "Pink Champane",
+        "rgbCode": { 
+            "red" :  222,
+            "green": 172,
+            "blue": 184
+},
+        "colorFamily": "R"
+    },
+    {
+        "colorName": "Rose Petals",
+        "rgbCode": { 
+            "red" : 197 ,
+            "green":133,
+            "blue": 146
+},
+        "colorFamily": "R"
+    },
+    {
+        "colorName": "Rouge",
+        "rgbCode": { 
+            "red" : 180 ,
+            "green": 73,
+            "blue": 84
+        },
+        "colorFamily": "R"
+    },
+    {
+        "colorName": "Peppermint Scrub",
+        "rgbCode": { 
+            "red" :  160,
+            "green": 83,
+            "blue": 92
+        },
+        "colorFamily": "R"
+    },
+    {
+        "colorName": "Merlot",
+        "rgbCode": { 
+            "red" :  81,
+            "green": 43,
+            "blue": 51
+        },
+        "colorFamily": "R"
+    },
+    {
+        "colorName": "Clay Mask",
+        "rgbCode": { 
+            "red" :  231,
+            "green": 177,
+            "blue": 150
+        },
+        "colorFamily": "RO"
+    },
+    {
+        "colorName": "Polished",
+        "rgbCode": { 
+            "red" : 214 ,
+            "green": 126,
+            "blue": 113
+        },
+        "colorFamily": "RO"
+    },
+    {
+        "colorName": "Terracotta",
+        "rgbCode": { 
+            "red" :  158,
+            "green" : 88,
+            "blue" : 82 
+        },
+        "colorFamily": "RO"
+    },
+    {
+        "colorName": "Apricot",
+        "rgbCode": { 
+            "red" :  237,
+            "green": 197,
+            "blue": 158
+        },
+        "colorFamily": "O"
+    },
+    {
+        "colorName": "Orange Peel",
+        "rgbCode": { 
+            "red" :  225,
+            "green": 157,
+            "blue": 100 
+            },
+        "colorFamily": "O"
+    },
+    {
+        "colorName": "Mandarin Spice",
+        "rgbCode": { 
+            "red" :  211,
+            "green": 108,
+            "blue": 72
+        },
+        "colorFamily": "O"
+    },
+    {
+        "colorName": "Ginger",
+        "rgbCode": { 
+            "red" :  175,
+            "green": 105,
+            "blue": 53
+        },
+        "colorFamily": "O"
+    },
+    {
+        "colorName": "Sauna",
+        "rgbCode": { 
+            "red" : 219 ,
+            "green": 168,
+            "blue": 73
+        },
+        "colorFamily": "OY"
+    },
+    {
+        "colorName": "Whipped Honey",
+        "rgbCode": { 
+            "red" : 252 ,
+            "green": 240,
+            "blue": 191
+        },
+        "colorFamily": "Y"
+    },
+    {
+        "colorName": "Shea Butter",
+        "rgbCode": { 
+            "red" : 230,
+            "green": 200,
+            "blue": 119
+        },
+        "colorFamily": "Y"
+    },
+    {
+        "colorName": "Lemongrass",
+        "rgbCode": { 
+            "red" :  234,
+            "green": 225,
+            "blue": 111
+        },
+        "colorFamily": "YG"
+    },
+    {
+        "colorName": "Green Tea",
+        "rgbCode": { 
+            "red" : 175 ,
+            "green": 170,
+            "blue": 94
+        },
+        "colorFamily": "YG"
+    },
+    {
+        "colorName": "Eucalyptus",
+        "rgbCode": { 
+            "red" :  130,
+            "green": 138,
+            "blue": 92
+        },
+        "colorFamily": "YG"
+    },
+    {
+        "colorName": "Matcha",
+        "rgbCode": { 
+            "red" : 209,
+            "green": 223,
+            "blue": 182
+        },
+        "colorFamily": "G"
+    },
+    {
+        "colorName": "Sage",
+        "rgbCode": { 
+            "red" :  152,
+            "green": 167,
+            "blue": 135
+        },
+        "colorFamily": "G"
+    },
+    {
+        "colorName": "Spruce",
+        "rgbCode": { 
+            "red" :  75,
+            "green": 91,
+            "blue": 73
+        },
+        "colorFamily": "G"
+    },
+    {
+        "colorName": "Wintergreen",
+        "rgbCode": {
+            "red" :  203,
+            "green": 224,
+            "blue": 201
+        },
+        "colorFamily": "GB"
+    },
+    {
+        "colorName": "Seafoam",
+        "rgbCode": { 
+            "red" :  157,
+            "green": 186,
+            "blue": 153
+        },
+        "colorFamily": "GB"
+    },
+    {
+        "colorName": "Sea Glass",
+        "rgbCode": { 
+            "red" : 103,
+            "green": 160,
+            "blue": 145
+        },
+        "colorFamily": "GB"
+    },
+    {
+        "colorName": "Bay Breeze",
+        "rgbCode": { 
+            "red" :  88,
+            "green": 129,
+            "blue": 134
+        },
+        "colorFamily": "GB"
+    },
+    {
+        "colorName": "Hot Tub",
+        "rgbCode": { 
+            "red" :  186,
+            "green": 208,
+            "blue": 199
+        },
+        "colorFamily": "BG"
+    },
+    {
+        "colorName": "Skylight",
+        "rgbCode": { 
+            "red" :  115,
+            "green": 160,
+            "blue": 157
+        },
+        "colorFamily": "BG"
+    },
+    {
+        "colorName": "Daydream",
+        "rgbCode": { 
+            "red" :  48,
+            "green": 127,
+            "blue": 138
+        },
+        "colorFamily": "BG"
+    },
+    {
+        "colorName": "Tranquil",
+        "rgbCode": { 
+            "red" :  210,
+            "green": 222,
+            "blue": 233
+        },
+        "colorFamily": "B"
+    },
+    {
+        "colorName": "Stone Blue",
+        "rgbCode": { 
+            "red" :  135,
+            "green": 160,
+            "blue": 174
+        },
+        "colorFamily": "B"
+    },
+    {
+        "colorName": "Cove Blue",
+        "rgbCode": { 
+            "red" :  107,
+            "green": 124,
+            "blue": 149
+        },
+        "colorFamily": "B"
+    },
+    {
+        "colorName": "Juniper Mist",
+        "rgbCode": { 
+            "red" :  40,
+            "green": 54,
+            "blue": 70
+        },
+        "colorFamily": "B"
+    },
+    {
+        "colorName": "Serene",
+        "rgbCode": { 
+            "red" :  190,
+            "green": 190,
+            "blue": 204
+        },
+        "colorFamily": "BV"
+    },
+    {
+        "colorName": "Crushed Violet",
+        "rgbCode": { 
+            "red" :  111,
+            "green": 113,
+            "blue": 153
+        },
+        "colorFamily": "BV"
+    },
+    {
+        "colorName": "Queen for a Day",
+        "rgbCode": { 
+            "red" :  59,
+            "green": 48,
+            "blue": 114 
+        },
+        "colorFamily": "BV"
+    },
+    {
+        "colorName": "Lilac",
+        "rgbCode": { 
+            "red" :  195,
+            "green": 185,
+            "blue": 194
+        },
+        "colorFamily": "V"
+    },
+    {
+        "colorName": "Royal Treatment",
+        "rgbCode": { 
+            "red" :  111,
+            "green": 84,
+            "blue": 111
+        },
+        "colorFamily": "V"
+    },
+    {
+        "colorName": "Sparkling Berry",
+        "rgbCode": { 
+            "red" :  192,
+            "green": 129,
+            "blue": 159
+        },
+        "colorFamily": "RV"
+    },
+    {
+        "colorName": "Sugared Lavender",
+        "rgbCode": { 
+            "red" :  160,
+            "green": 116,
+            "blue": 131
+        },
+        "colorFamily": "RV"
+    },
+    {
+        "colorName": "Sangria",
+        "rgbCode": { 
+            "red" : 126,
+            "green": 68,
+            "blue": 100
+        },
+        "colorFamily": "RV"
+    }
+]
